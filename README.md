@@ -1,6 +1,19 @@
 # Binary Search Tree Counter
 This is a C program that counts unique integer inputs and prints each value in sorted order with its frequency count using a binary search tree data structure.
 
+## Project Preview
+
+### Tree Structure and Core Logic
+![Tree Logic](overview_text.png)
+
+### BST Testing and Execution
+![BST Testing](runtest.sh.png)
+
+### Unique Value Counter Implementation
+![Unique Counter](unique.c.png)
+
+---
+
 ## Features
 - Counts duplicate integer values
 - Stores data using a binary search tree
